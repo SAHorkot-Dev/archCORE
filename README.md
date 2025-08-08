@@ -48,6 +48,7 @@ Here are the specifics of the environment used to compile this kernel:
 * **Kernel Version:** `4.14.356`
 * **Host OS:** `Manjaro Linux` with the `i3` Window Manager
 * **Supported OS:** `Android 13` to `Android 16`
+* **KernelSU-NEXT:** `Supported` & `Manually Hooked Latest` 
 
 ---
 
