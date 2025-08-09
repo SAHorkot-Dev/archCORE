@@ -1,6 +1,6 @@
 # archCORE Kernel ✨
 
-![GitHub last commit](https://img.shields.io/github/last-commit/c0smic-Lab/kernel_xiaomi_sm6250?style=for-the-badge&logo=github&color=a6e3a1&logoColor=D9E0EE&labelColor=302D41)
+![GitHub last commit](https://img.shields.io/github/last-commit/pa-xe/android_kernel_xiaomi_miatoll?style=for-the-badge&logo=github&color=a6e3a1&logoColor=D9E0EE&labelColor=302D41)
 ![Kernel Version](https://img.shields.io/badge/Kernel-4.14.356-blue.svg?style=for-the-badge&logo=linux&logoColor=D9E0EE)
 ![Clang Version](https://img.shields.io/badge/Clang-20.1.8-orange.svg?style=for-the-badge&logo=llvm&logoColor=D9E0EE)
 
@@ -12,7 +12,7 @@ Welcome to the official repository for **archCORE Kernel**. This is where I will
 
 **archCORE** is a custom kernel built with performance and stability in mind. The primary goal is to provide the best possible core functionality without unnecessary bloat.
 
-* **Base Kernel:** The kernel is based on the solid foundation of [c0smic-Lab's kernel_xiaomi_sm6250](https://github.com/c0smic-Lab/kernel_xiaomi_sm6250).
+* **Base Kernel:** The kernel is based on the solid foundation of [PA-XE](https://github.com/pa-xe/android_kernel_xiaomi_miatoll.git).
 * **Optimization Focus:** Tuned for optimal core feature performance.
 * **Release Cycle:** New builds will be released occasionally. Stay tuned!
 
@@ -47,8 +47,8 @@ Here are the specifics of the environment used to compile this kernel:
 * **Compiler:** `LLVM Clang 20.1.8`
 * **Kernel Version:** `4.14.356`
 * **Host OS:** `Manjaro Linux` with the `i3` Window Manager
-* **Supported OS:** `Android 13` to `Android 16`
-* **KernelSU-NEXT:** `Supported` & `Manually Hooked Latest` 
+* **Supported OS:** `Android 15(Tested)` to `Android 16`
+* **KernelSU-NEXT:** `Supported` Injected `Manually`
 
 ---
 
@@ -56,7 +56,7 @@ Here are the specifics of the environment used to compile this kernel:
 
 Found a bug? Have a question? Feel free to reach out.
 
-* **Telegram:** For bug reports or support, please send me a direct message on Telegram: **[@sahorkot](https://t.me/sahorkot)**
+* **Telegram:** For bug reports or support, please send me a direct message on Telegram: **[SAHorkot](https://t.me/sahorkot)**
 
 Please provide as much detail as possible when reporting a bug, including your device variant and the steps to reproduce the issue.
 
@@ -66,6 +66,6 @@ Please provide as much detail as possible when reporting a bug, including your d
 
 A huge thank you to the developers and maintainers of the base kernel source.
 
-* **c0smic-Lab:** For the amazing [kernel_xiaomi_sm6250](https://github.com/c0smic-Lab/kernel_xiaomi_sm6250) source.
+* **MSI-MS7788:** My 12 Year Old PC Compiled The Kernel From Source Perfectly.
 
 Happy Flashing! 🚀
